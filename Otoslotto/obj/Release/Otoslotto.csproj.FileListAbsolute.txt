@@ -1,0 +1,14 @@
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\18karika.png
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\lohere.png
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\szamok.txt
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\Kontener.cs
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\szamok.cs
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\Otoslotto.exe.config
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\Otoslotto.exe
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Release\Otoslotto.pdb
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.csprojResolveAssemblyReference.cache
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.Form1.resources
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.Properties.Resources.resources
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.csproj.GenerateResource.Cache
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.exe
+C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.pdb
