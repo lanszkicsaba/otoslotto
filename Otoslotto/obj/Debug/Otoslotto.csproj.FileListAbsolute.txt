@@ -26,3 +26,6 @@ C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\lohere.
 C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\18karika.png
 C:\Users\Csaba\SkyDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\18karika.png
 C:\Users\Csaba\SkyDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\lohere.png
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\Otoslotto.exe.config
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.exe
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.pdb

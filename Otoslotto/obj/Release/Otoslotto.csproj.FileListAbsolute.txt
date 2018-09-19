@@ -12,3 +12,16 @@ C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otosl
 C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.csproj.GenerateResource.Cache
 C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.exe
 C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\obj\Release\Otoslotto.pdb
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\18karika.png
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\lohere.png
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\szamok.txt
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\Kontener.cs
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\szamok.cs
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\Otoslotto.exe.config
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\Otoslotto.exe
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Release\Otoslotto.pdb
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.Form1.resources
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.Properties.Resources.resources
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.csproj.GenerateResource.Cache
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.exe
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.pdb

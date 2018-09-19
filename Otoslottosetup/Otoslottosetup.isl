@@ -1176,6 +1176,7 @@
 		<row><td>WindowsFolder</td><td>TARGETDIR</td><td>.:Windows</td><td/><td>0</td><td/></row>
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
 		<row><td>foxorh_1_foxor_hungary_inc.</td><td>ProgramMenuFolder</td><td>FOXORH~1|Foxor Hungary Inc.</td><td/><td>1</td><td/></row>
+		<row><td>otoslo_1_otoslottosetup</td><td>foxorh_1_foxor_hungary_inc.</td><td>OTOSLO~1|Otoslottosetup</td><td/><td>1</td><td/></row>
 		<row><td>otoslottosetup</td><td>foxorh_1_foxor_hungary_inc.</td><td>TSLOTT~1|Ötöslottó generátor</td><td/><td>1</td><td/></row>
 	</table>
 
@@ -3436,6 +3437,7 @@
 		<row><td>IDS_SETUPEXE_LAUNCH_COND_E</td><td>1033</td><td>This setup was built with an evaluation version of InstallShield and can only be launched from setup.exe.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME1</td><td>1033</td><td>Launch |Built</td><td>0</td><td/><td>849645174</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>Ötöslottó számgenerátor</td><td>0</td><td/><td>849663734</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1666791115</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>849655190</td></row>
@@ -3842,6 +3844,7 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\setupicon.ico</td><td>0</td></row>
+		<row><td>Otoslotto.exe_396358913C7D4F6791E412FAD879637E.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
 		<row><td>UNINST_Uninstall_O_71A411BC8BB94BE8B7686A559FDD06EB.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
 		<row><td>_Built1_05D1A9E3256340498AA73E0A35ED990B.exe</td><td/><td>&lt;VSSolutionFolder&gt;\Otoslotto\bin\Debug\favicon.ico</td><td>0</td></row>
 		<row><td>_Built_121C67F636FD4734B26525D5DE1D4FD0.exe</td><td/><td>&lt;VSSolutionFolder&gt;\Otoslotto\bin\Debug\favicon.ico</td><td>0</td></row>
@@ -4355,7 +4358,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[INSTALLDIR]Otoslotto.Primary output</td><td/></row>
 		<row><td>ProductCode</td><td>{63FA6DFA-FBAC-4CAC-95F0-883AD6C0797C}</td><td/></row>
 		<row><td>ProductName</td><td>Otoslottosetup</td><td/></row>
-		<row><td>ProductVersion</td><td>1.00.0000</td><td/></row>
+		<row><td>ProductVersion</td><td>2.00.0000</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
