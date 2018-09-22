@@ -29,7 +29,7 @@ namespace Otoslotto
         {
             get
             {
-                if (elso < 1 || elso > 90)
+                if (masodik < 1 || masodik > 90)
                 {
                     MessageBox.Show("Hibás adatbevitel!");
                 }
@@ -43,7 +43,7 @@ namespace Otoslotto
         {
             get
             {
-                if (elso < 1 || elso > 90)
+                if (harmadik < 1 || harmadik > 90)
                 {
                     MessageBox.Show("Hibás adatbevitel!");
                 }
@@ -57,7 +57,7 @@ namespace Otoslotto
         {
             get
             {
-                if (elso < 1 || elso > 90)
+                if (negyedik < 1 || negyedik > 90)
                 {
                     MessageBox.Show("Hibás adatbevitel!");
                 }
@@ -71,7 +71,7 @@ namespace Otoslotto
         {
             get
             {
-                if (elso < 1 || elso > 90)
+                if (otodik < 1 || otodik > 90)
                 {
                     MessageBox.Show("Hibás adatbevitel!");
                 }
@@ -85,7 +85,7 @@ namespace Otoslotto
             this.masodik = masodik;
             this.harmadik = harmadik;
             this.negyedik = negyedik;
-            this.otodik = negyedik;
+            this.otodik = otodik;
         }
 
     }

@@ -2622,7 +2622,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Foxor Hungary Inc.</td><td>0</td><td/><td>849657238</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Foxor Hungary Inc.</td><td>0</td><td/><td>-1264181579</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION40CLIENT</td><td>1033</td><td>Microsoft .NET Framework 4.0 Client Package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>849655254</td></row>
@@ -3438,6 +3438,8 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME1</td><td>1033</td><td>Launch |Built</td><td>0</td><td/><td>849645174</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>Ötöslottó számgenerátor</td><td>0</td><td/><td>849663734</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1666791115</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1264163115</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1264138539</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>849655190</td></row>
@@ -3726,8 +3728,8 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.lanszkicsaba.ucoz.com</td><td>0</td><td/><td>849620438</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>Foxor Hungary Inc.</td><td>0</td><td/><td>849657238</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.FoxorHungaryInc..com</td><td>0</td><td/><td>-1264181579</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>Foxor Hungary Inc.</td><td>0</td><td/><td>-1264181579</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Launch |Built</td><td>0</td><td/><td>849659606</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>TSLOTT~1|Ötöslottó számgenerátor</td><td>0</td><td/><td>849664151</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>849655190</td></row>
@@ -3844,6 +3846,8 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\setupicon.ico</td><td>0</td></row>
+		<row><td>Otoslotto.exe_1AD49D99D94245BAAF878002C42B5BA3.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
+		<row><td>Otoslotto.exe_2C742D97EF9D4066A8E4DE6C7B6B5BFE.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
 		<row><td>Otoslotto.exe_396358913C7D4F6791E412FAD879637E.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
 		<row><td>UNINST_Uninstall_O_71A411BC8BB94BE8B7686A559FDD06EB.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
 		<row><td>_Built1_05D1A9E3256340498AA73E0A35ED990B.exe</td><td/><td>&lt;VSSolutionFolder&gt;\Otoslotto\bin\Debug\favicon.ico</td><td>0</td></row>

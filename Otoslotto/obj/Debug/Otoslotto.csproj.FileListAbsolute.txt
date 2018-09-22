@@ -29,3 +29,14 @@ C:\Users\Csaba\SkyDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\lohere.
 C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\Otoslotto.exe.config
 C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.exe
 C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.pdb
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\18karika.png
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\lohere.png
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\szamok.txt
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\Kontener.cs
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\szamok.cs
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\Otoslotto.exe
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\bin\Debug\Otoslotto.pdb
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.csprojResolveAssemblyReference.cache
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.Form1.resources
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.Properties.Resources.resources
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Debug\Otoslotto.csproj.GenerateResource.Cache
