@@ -342,8 +342,8 @@
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
 		<row><td>IS_ININSTALL_SHORTCUT</td><td>{73E11F1F-8672-4D36-8FE0-BFFDEBB99DAC}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Otoslotto.Content_Files</td><td>{AA596CB8-C6AF-435F-ACAE-EE0A6D63CF03}</td><td>INSTALLDIR</td><td>2</td><td/><td>otoslotto.content_files</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Otoslotto.Primary_output</td><td>{94A76D62-A844-4461-B346-6A6A3556926C}</td><td>INSTALLDIR</td><td>2</td><td/><td>otoslotto.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Otoslotto.Content_Files</td><td>{16FC85E9-A1D3-45D9-AC85-4F2BF1A2C261}</td><td>INSTALLDIR</td><td>2</td><td/><td>otoslotto.content_files</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Otoslotto.Primary_output</td><td>{DC2B094C-81BE-44BC-8142-62581438280B}</td><td>INSTALLDIR</td><td>2</td><td/><td>otoslotto.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -2032,8 +2032,8 @@
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
 		<row><td>IS_ININSTALL_SHORTCUT</td><td/><td/><td>_4983A81B_C911_483D_972A_4E4E3E4D90F0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Otoslotto.Content_Files</td><td/><td/><td>_892E641C_6B6D_4B8A_8C8B_DEC6A86736E0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Otoslotto.Primary_output</td><td/><td/><td>_64989F7B_98A6_4135_8C32_32B50B4E0916_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Otoslotto.Content_Files</td><td/><td/><td>_C0EB145F_A161_4C47_9438_34E8A6A4E92B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Otoslotto.Primary_output</td><td/><td/><td>_D421933A_3B8F_4C1C_ACE5_D55581A6C411_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -3440,6 +3440,8 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1666791115</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1264163115</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td>LAUNCH~1.EXE|Launch Otoslotto.exe</td><td>0</td><td/><td>-1264138539</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME6</td><td>1033</td><td>Uninstall Otoslotto</td><td>0</td><td/><td>-1264155818</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME7</td><td>1033</td><td>Ötöslottó számgenerátor</td><td>0</td><td/><td>-1264165450</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>849655190</td></row>
@@ -3728,10 +3730,11 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>849655190</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.FoxorHungaryInc..com</td><td>0</td><td/><td>-1264181579</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.lanszkicsaba.ucoz.com</td><td>0</td><td/><td>-1264171754</td></row>
 		<row><td>ID_STRING2</td><td>1033</td><td>Foxor Hungary Inc.</td><td>0</td><td/><td>-1264181579</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Launch |Built</td><td>0</td><td/><td>849659606</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>TSLOTT~1|Ötöslottó számgenerátor</td><td>0</td><td/><td>849664151</td></row>
+		<row><td>ID_STRING5</td><td>1033</td><td>Ötöslottó számgenerátor</td><td>0</td><td/><td>-1264155210</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>849655190</td></row>
 	</table>
 
@@ -3851,7 +3854,9 @@
 		<row><td>Otoslotto.exe_396358913C7D4F6791E412FAD879637E.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
 		<row><td>UNINST_Uninstall_O_71A411BC8BB94BE8B7686A559FDD06EB.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
 		<row><td>_Built1_05D1A9E3256340498AA73E0A35ED990B.exe</td><td/><td>&lt;VSSolutionFolder&gt;\Otoslotto\bin\Debug\favicon.ico</td><td>0</td></row>
+		<row><td>_Built1_B024F6FA483B429EA17CE10B18F29050.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
 		<row><td>_Built_121C67F636FD4734B26525D5DE1D4FD0.exe</td><td/><td>&lt;VSSolutionFolder&gt;\Otoslotto\bin\Debug\favicon.ico</td><td>0</td></row>
+		<row><td>_Built_82F81E4AF3C94FA8AEFA5F88A28C12F3.exe</td><td/><td>C:\Users\Csaba\OneDrive\Programok\Sajátok\Otoslotto\Otoslotto\bin\Debug\Otoslotto.exe</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4440,7 +4445,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
 		<row><td>UNINST_Uninstall_Otoslottosetup</td><td>IS_ININSTALL_SHORTCUT</td><td/><td>otoslottosetup</td><td>2</td></row>
-		<row><td>_Built</td><td>Otoslotto.Primary_output</td><td/><td>otoslottosetup</td><td>2</td></row>
+		<row><td>_Built</td><td>Otoslotto.Primary_output</td><td/><td>otoslo_1_otoslottosetup</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -4526,10 +4531,9 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>NewShortcut1</td><td>StartupFolder</td><td>##ID_STRING4##</td><td>Otoslotto.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td/><td/><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>UNINST_Uninstall_Otoslottosetup</td><td>otoslottosetup</td><td>UNINST|Uninstall Otoslottosetup</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {63FA6DFA-FBAC-4CAC-95F0-883AD6C0797C}</td><td/><td/><td>UNINST_Uninstall_O_71A411BC8BB94BE8B7686A559FDD06EB.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>_Built</td><td>otoslottosetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME2##</td><td>Otoslotto.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td>_Built_121C67F636FD4734B26525D5DE1D4FD0.exe</td><td>0</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>_Built1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME2##</td><td>Otoslotto.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td>_Built1_05D1A9E3256340498AA73E0A35ED990B.exe</td><td>0</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>UNINST_Uninstall_Otoslottosetup</td><td>otoslottosetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME6##</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {63FA6DFA-FBAC-4CAC-95F0-883AD6C0797C}</td><td/><td/><td>UNINST_Uninstall_O_71A411BC8BB94BE8B7686A559FDD06EB.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>_Built</td><td>otoslo_1_otoslottosetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME7##</td><td>Otoslotto.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td>_Built_82F81E4AF3C94FA8AEFA5F88A28C12F3.exe</td><td>1</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>_Built1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME7##</td><td>Otoslotto.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td>_Built1_B024F6FA483B429EA17CE10B18F29050.exe</td><td>1</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
