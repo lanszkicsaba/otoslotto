@@ -25,3 +25,4 @@ C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.P
 C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.csproj.GenerateResource.Cache
 C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.exe
 C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.pdb
+C:\Users\Csaba\Documents\Tesztek\otoslotto\git\Otoslotto\obj\Release\Otoslotto.csprojResolveAssemblyReference.cache

@@ -21,6 +21,17 @@ namespace Otoslotto
                 }
                 return elso;
             }
+            private set
+            {
+                if (value < 1 || value > 90)
+                {
+                    MessageBox.Show("Hibás adatbevitel!");
+                }
+                else
+                {
+                    elso = value;
+                }
+            }
         }
 
         private int masodik;
@@ -34,6 +45,17 @@ namespace Otoslotto
                     MessageBox.Show("Hibás adatbevitel!");
                 }
                 return masodik;
+            }
+            private set
+            {
+                if (value < 1 || value > 90)
+                {
+                    MessageBox.Show("Hibás adatbevitel!");
+                }
+                else
+                {
+                    masodik = value;
+                }
             }
         }
 
@@ -49,6 +71,17 @@ namespace Otoslotto
                 }
                 return harmadik;
             }
+            private set
+            {
+                if (value < 1 || value > 90)
+                {
+                    MessageBox.Show("Hibás adatbevitel!");
+                }
+                else
+                {
+                    harmadik = value;
+                }
+            }
         }
 
         private int negyedik;
@@ -62,6 +95,17 @@ namespace Otoslotto
                     MessageBox.Show("Hibás adatbevitel!");
                 }
                 return negyedik;
+            }
+            private set
+            {
+                if (value < 1 || value > 90)
+                {
+                    MessageBox.Show("Hibás adatbevitel!");
+                }
+                else
+                {
+                    negyedik = value;
+                }
             }
         }
 
@@ -77,15 +121,26 @@ namespace Otoslotto
                 }
                 return otodik;
             }
+            private set
+            {
+                if (value < 1 || value > 90)
+                {
+                    MessageBox.Show("Hibás adatbevitel!");
+                }
+                else
+                {
+                    otodik = value;
+                }
+            }
         }
 
         public Szamok(int elso, int masodik, int harmadik, int negyedik, int otodik)
         {
-            this.elso = elso;
-            this.masodik = masodik;
-            this.harmadik = harmadik;
-            this.negyedik = negyedik;
-            this.otodik = otodik;
+            this.Elso = elso;
+            this.Masodik = masodik;
+            this.Harmadik = harmadik;
+            this.Negyedik = negyedik;
+            this.Otodik = otodik;
         }
 
     }

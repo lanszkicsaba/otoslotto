@@ -27,7 +27,7 @@ namespace Otoslotto
             Image image2 = Image.FromFile("18karika.png");
             pictureBox1.Image = image;
             pictureBox2.Image = image2;
-
+            
             try
             {
                 WebConnect reader = new WebConnect();
@@ -39,7 +39,7 @@ namespace Otoslotto
                 contener = reader.InReader();
 
                 commander.FileDel("otos.csv");
-
+                
                 contener.SavetoTxt();
             }
             catch (WebException)
