@@ -39,7 +39,6 @@ namespace Otoslotto
                 contener = reader.InReader();
 
                 commander.FileDel("otos.csv");
-                
                 contener.SavetoTxt();
             }
             catch (WebException)

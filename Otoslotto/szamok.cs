@@ -15,10 +15,6 @@ namespace Otoslotto
         {
             get
             {
-                if (elso < 1 || elso > 90)
-                {
-                    MessageBox.Show("Hibás adatbevitel!");
-                }
                 return elso;
             }
             private set
@@ -40,10 +36,6 @@ namespace Otoslotto
         {
             get
             {
-                if (masodik < 1 || masodik > 90)
-                {
-                    MessageBox.Show("Hibás adatbevitel!");
-                }
                 return masodik;
             }
             private set
@@ -65,10 +57,6 @@ namespace Otoslotto
         {
             get
             {
-                if (harmadik < 1 || harmadik > 90)
-                {
-                    MessageBox.Show("Hibás adatbevitel!");
-                }
                 return harmadik;
             }
             private set
@@ -90,10 +78,6 @@ namespace Otoslotto
         {
             get
             {
-                if (negyedik < 1 || negyedik > 90)
-                {
-                    MessageBox.Show("Hibás adatbevitel!");
-                }
                 return negyedik;
             }
             private set
@@ -115,10 +99,6 @@ namespace Otoslotto
         {
             get
             {
-                if (otodik < 1 || otodik > 90)
-                {
-                    MessageBox.Show("Hibás adatbevitel!");
-                }
                 return otodik;
             }
             private set
